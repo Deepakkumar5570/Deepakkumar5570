@@ -1,6 +1,6 @@
 [!MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgdw0JhAdZcwu_9M5xcxrq31dmwUpGGcxMoA&s)]
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A Data Science Student from utter Pradesh</h3>
+<h3 align="center">A Data Science Student from Utter Pradesh</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deepakkumar5570&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar5570" /> </p>
