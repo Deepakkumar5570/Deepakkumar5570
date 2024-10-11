@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/deepak-kumar-029781263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar-029781263" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak_kumar2.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak_kumar2.o" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dk0778671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dk0778671" height="30" width="40" /></a>
+
 <a https://leetcode.com/u/Deepakkuamar/ ></a>
 </p>
 
