@@ -1,7 +1,6 @@
 
 
-### 🧑‍🎓 Pursuing B.Tech Honours in Data Science
-I'm passionate about leveraging data science to solve real-world problems. With a solid foundation in programming and development, I have hands-on experience in both **Full Stack Development** and **Machine Learning**.
+
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">
 
