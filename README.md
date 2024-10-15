@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar5570&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA), Machine Learning, Deep Learning **
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA), Machine Learning, Deep Learning**
 - 📫 How to reach me: **dk0778671@gmail.com**
 - ⚡ Fun fact: **I am very shy, but I love coding!**
 
