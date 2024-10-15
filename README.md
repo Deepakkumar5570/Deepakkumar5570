@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar5570&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA), Machine Learning, Deep Learning**
@@ -26,17 +25,18 @@
 <a href="https://linkedin.com/in/deepak-kumar-029781263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak_kumar2.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Deepakkuamar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/15/LeetCode_logo_white_no_background.svg" alt="LeetCode" height="30" width="40" /></a>
+
 ---
 
 ### 🏆 Achievements:
 - **LeetCode**: Solved 15+ coding challenges
 - **Full Stack Projects**: Developing multiple web apps using MERN/MEAN stack
-- **Machine Learning Models**: Builting predictive models for classification and regression problems
+- **Machine Learning Models**: Building predictive models for classification and regression problems
 
 ---
 
 ### ⚡ Projects:
-- **[Project Name 1](#)**: Currently   I am learning about Full Stack Web Development project using React and Node.js.
+- **[Project Name 1](#)**: Currently I am learning about Full Stack Web Development project using React and Node.js.
 - **[Email Classifiers](#)**: Machine Learning project focused on predictive analytics using Python.
 
 ---
@@ -70,7 +70,7 @@
 ### 🌱 Currently Learning:
 - **Advanced Machine Learning Algorithms**
 - **Deep learning**
-- ** Data Structure And Algorithms**
+- **Data Structure And Algorithms**
 
 ---
 
