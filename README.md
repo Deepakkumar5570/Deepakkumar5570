@@ -69,7 +69,7 @@
 
 ### 🌱 Currently Learning:
 - **Advanced Machine Learning Algorithms**
-- **Deep learning **
+- **Deep learning**
 
 ---
 
