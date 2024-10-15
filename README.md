@@ -36,8 +36,8 @@
 ---
 
 ### ⚡ Projects:
-- **[Project Name 1](#)**: Full Stack Web Development project using React and Node.js.
-- **[Project Name 2](#)**: Machine Learning project focused on predictive analytics using Python.
+- **[Project Name 1](#)**: Currently   I am learning about Full Stack Web Development project using React and Node.js.
+- **[Email Classifiers](#)**: Machine Learning project focused on predictive analytics using Python.
 
 ---
 
