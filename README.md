@@ -69,7 +69,7 @@
 
 ### 🌱 Currently Learning:
 - **Advanced Machine Learning Algorithms**
-- **React Native for Mobile Development**
+- **Deep learning **
 
 ---
 
