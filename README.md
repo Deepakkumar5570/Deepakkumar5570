@@ -29,7 +29,7 @@
 ---
 
 ### 🏆 Achievements:
-- **LeetCode**: Solved 15+ coding challenges
+- **LeetCode**: Solved 25+ coding challenges
 - **Full Stack Projects**: Developing multiple web apps using MERN/MEAN stack
 - **Machine Learning Models**: Building predictive models for classification and regression problems
 
