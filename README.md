@@ -38,6 +38,7 @@
 ### ⚡ Projects:
 - **[Project Name 1](#)**: Currently I am learning about Full Stack Web Development project using React and Node.js.
 - **[Email Classifiers](https://github.com/Deepakkumar5570/Email-Spam-Classifier-Project.git)**: Machine Learning project focused on predictive analytics using Python.
+- **[Email Checker with django](https://github.com/Deepakkumar5570/Email_ham_spam_checker)**: Machine learning project by using multinomial bayes algorithm using pyhton and django framework
 
 ---
 
