@@ -37,7 +37,7 @@
 
 ### ⚡ Projects:
 - **[Project Name 1](#)**: Currently I am learning about Full Stack Web Development project using React and Node.js.
-- **[Email Classifiers](https://github.com/Deepakkumar5570/Email-Spam-Classifier-Project.git)**: Machine Learning project focused on predictive analytics using Python.
+- **[Email Classifiers](https://github.com/Deepakkumar5570/Email-Spam-Classifier-Project.git)**: Machine Learning project focused on predictive analytics using Python. with Accuracy_score 0.9816247582205029 and Precision_score 0.9917355371900827 by SVM Algorithm
 - **[Email Checker with django](https://github.com/Deepakkumar5570/Email_ham_spam_checker)**: Machine learning project by using multinomial bayes algorithm using pyhton and django framework
 
 ---
