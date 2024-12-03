@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">Pursuing B.Tech Honours in Data Science, passionate about leveraging data science and full stack development to solve real-world problems.</h3>
 
-<img align="right" alt="Coding" width="500" src="![image](https://github.com/user-attachments/assets/a02a09ba-c7ee-47ae-93ab-da74d03fa355)
-">
+<img align="right" alt="Coding" width="500" src="https://github.com/user-attachments/assets/0bd0014b-b787-43d6-9eea-8d92fa4759e1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar5570&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
