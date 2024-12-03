@@ -29,8 +29,8 @@
 ---
 
 ### 🏆 Achievements:
-- **LeetCode**: Solved 25+ coding challenges
-- **Full Stack Projects**: Developing multiple web apps using MERN/MEAN stack
+- **LeetCode**: Solved 30+ coding challenges
+- **Full Stack Projects**: Developing multiple web apps using MERNstack
 - **Machine Learning Models**: Building predictive models for classification and regression problems
 
 ---
@@ -39,6 +39,7 @@
 - **[Project Name 1](#)**: Currently I am learning about Full Stack Web Development project using React and Node.js.
 - **[Email Classifiers](https://github.com/Deepakkumar5570/Email-Spam-Classifier-Project.git)**: Machine Learning project focused on predictive analytics using Python. with Accuracy_score 0.9816247582205029 and Precision_score 0.9917355371900827 by SVM Algorithm
 - **[Email Checker with django](https://github.com/Deepakkumar5570/Email_ham_spam_checker)**: Machine learning project by using multinomial bayes algorithm using pyhton and django framework
+- **[Movies Recommendation System](https://github.com/Deepakkumar5570/Movie-Recommendation-System/blob/main/Copy_of_Untitled11.ipynb).**: A Machine Learning Project ,Trained at IMDb dataset, it is is content based movie recommendid system. 
 
 ---
 
