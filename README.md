@@ -71,6 +71,7 @@
 ---
 
 ### 🌱 Currently Learning:
+- **Research Intern @IITK**
 - **Advanced Machine Learning Algorithms**
 - **Deep learning**
 - **Data Structure And Algorithms**
