@@ -25,9 +25,7 @@
 ### 📫 Connect with me:
 <a href="https://linkedin.com/in/deepak-kumar-029781263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak_kumar2.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Deepakkuamar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/15/LeetCode_logo_white_no_background.svg" alt="LeetCode" height="30" width="40" /></a>
-
----
+<a href="https://www.leetcode.com/Deepak_umar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir1120k" height="30" width="40" /></a> 
 
 ### 🏆 Achievements:
 - **LeetCode**: Solved 30+ coding challenges
