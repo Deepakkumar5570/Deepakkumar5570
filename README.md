@@ -28,14 +28,14 @@
 <a href="https://www.leetcode.com/Deepak_umar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir1120k" height="30" width="40" /></a> 
 
 ### 🏆 Achievements:
-- **LeetCode**: Solved 30+ coding challenges
+- **LeetCode**: Solved 100+ coding challenges
 - **Full Stack Projects**: Developing multiple web apps using MERNstack
 - **Machine Learning Models**: Building predictive models for classification and regression problems
 
 ---
 
 ### ⚡ Projects:
-- **[Airbnb Clone](#)**: Currently I am Building  Full Stack Web Development project using MERN Stack.
+- **[Airbnb Clone](https://airstay-web.onrender.com)**: Currently I am Building  Full Stack Web Development project using MERN Stack.
 - **[Email Classifiers](https://github.com/Deepakkumar5570/Email-Spam-Classifier-Project.git)**: Machine Learning project focused on predictive analytics using Python. with Accuracy_score 0.9816247582205029 and Precision_score 0.9917355371900827 by SVM Algorithm
 - **[Email Checker with django](https://github.com/Deepakkumar5570/Email_ham_spam_checker)**: Machine learning project by using multinomial bayes algorithm using pyhton and django framework
 - **[Movies Recommendation System](https://github.com/Deepakkumar5570/Movie-Recommendation-System/blob/main/Copy_of_Untitled11.ipynb).**: A Machine Learning Project ,Trained at IMDb dataset, it is is content based movie recommendid system. 
@@ -77,4 +77,5 @@
 ---
 
 ### 🤔 Fun Fact:
-- I'm always up for coding challenges and love contributing to open-source projects!
+- I am shy
+  
