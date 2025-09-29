@@ -7,12 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar5570&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🌱 I’m currently learning
--  Generative AI ,Data Structures & Algorithms (DSA), Machine Learning, Deep Learning**
-- 📫 How to reach me: **dk0778671@gmail.com**
-- ⚡ Fun fact: **I am very shy, but I love coding!**
+---
+
+### 🌱 Currently Learning:
+- **Generative AI**
+- **Advanced Machine Learning Algorithms**
+- **Deep learning**
+- **Data Structure And Algorithms**
 
 ---
+
 ### Core Subjects:
 - **Data Structure & Algorithms, Operating System**
 - **Database Management System, Computer Network**
@@ -81,22 +85,33 @@ Tech Stack: ⚛️ React | 🔥 Firebase | 🌐 Node.js | 🗄️ MongoDB | 🚀
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar5570&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar5570&" alt="GitHub Streak" /></p>
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumar5570&theme=tokyo-night" alt="GitHub Activity Graph" width="80%"/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ---
 
 ### 📝 Blog Posts:
 - **[Blog Post Title 1](#)**: Link to relevant blog posts if you write about data science, coding, etc.
 - **[Blog Post Title 2](#)**: Another blog link or resource
 
----
 
-### 🌱 Currently Learning:
-- **Generative AI**
-- **Advanced Machine Learning Algorithms**
-- **Deep learning**
-- **Data Structure And Algorithms**
-
----
 
 ### 🤔 Fun Fact:
 - I am shy
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-029781263/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white)](https://stirring-jelly-30aeee.netlify.app)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](deepak0778671@gmail.com)
+
+---
+
+© 2025 Deepak Kumar | Built with ❤️ using GitHub
+
   
