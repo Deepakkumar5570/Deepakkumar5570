@@ -57,8 +57,8 @@
 Tech Stack: 🐍 Python | 🤗 Hugging Face Transformers | FAISS | LangChain.
 - **[Coder-Buddy](https://github.com/Deepakkumar5570/Coder-buddy)**:AI-powered coding assistant for debugging, explanation & solution generation
 Tech Stack: 🐍 Python | NLP Models | Streamlit | OpenAI API
-- **[Leaves Detection Model](https://github.com/Deepakkumar5570/YOLOv8_Leaves-detection)**:Computer vision system for early plant disease detection using UV & Non-UV imaging
-Tech Stack: 🌱 YOLOv8 | Vision Transformers (ViT) | TensorFlow | PyTorch | OpenCV
+- **[Leaves Detection Model](https://github.com/Deepakkumar5570/YOLOv8_Leaves-detection)**:Computer vision system for plant leaves detection and giving focus score of individuals leaf
+Tech Stack: 🌱 YOLOv8 | RoboFlow(For Anotiation).
 - **[AirStay](https://airstay-web.onrender.com).**:Full-stack Airbnb-inspired web app with booking system & authentication
 Tech Stack: ⚛️ React | 🌐 Node.js | 🗄️ MongoDB | 🚀 Express | JWT Auth
 - **[Real-time Chat Application](https://github.com/Deepakkumar5570/Chat-App).**:
