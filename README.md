@@ -26,7 +26,7 @@
 ### 💼 Skills:
 - **Languages**: JAVA, Python
 - **Web Development**: Full Stack Developer (Frontend & Backend)
-- **Gen AI **: Langchain, Langraph
+- **Gen AI**: Langchain, Langraph
 - **Data Science & Machine Learning Computer Vision**: 
   - Python Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
   - Data Preprocessing, Analysis, Visualization
@@ -38,6 +38,11 @@
 <a href="https://linkedin.com/in/deepak-kumar-029781263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak_kumar2.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Deepak_umar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir1120k" height="30" width="40" /></a> 
+<a href="https://stirring-jelly-30aeee.netlify.app" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" alt="Portfolio" height="30" width="40" style="filter: invert(1);" />
+</a>
+
+
 
 ### 🏆 Achievements:
 - 2025 – Letters of Recommendation (LORs) from Professor at IIT Kanpur for academic excellence and research potential
