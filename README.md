@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h1 align="center">Hi 👋, I'm Deepak Kumar ,Ex-Research Intern @IITK</h1>
+
 <h3 align="center">Pursuing B.Tech Honours in Data Science, passionate about leveraging data science and full stack development to solve real-world problems.</h3>
 
 <img align="right" alt="Coding" width="420" src="https://github.com/Deepakkumar5570/Deepakkumar5570/blob/main/profile3github.gif?raw=true">
@@ -6,16 +7,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar5570&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA), Machine Learning, Deep Learning**
+- 🌱 I’m currently learning
+-  Generative AI ,Data Structures & Algorithms (DSA), Machine Learning, Deep Learning**
 - 📫 How to reach me: **dk0778671@gmail.com**
 - ⚡ Fun fact: **I am very shy, but I love coding!**
 
 ---
+### Core Subjects:
+- **Data Structure & Algorithms, Operating System**
+- **Database Management System, Computer Network**
+- **Obejct Orianted Programing,Natural Language Processing**
+  
 
 ### 💼 Skills:
-- **Languages**: C++, Python
+- **Languages**: JAVA, Python
 - **Web Development**: Full Stack Developer (Frontend & Backend)
-- **Data Science & Machine Learning**: 
+- **Gen AI **: Langchain, Langraph
+- **Data Science & Machine Learning Computer Vision**: 
   - Python Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
   - Data Preprocessing, Analysis, Visualization
   - Model Building, Evaluation
@@ -28,17 +36,30 @@
 <a href="https://www.leetcode.com/Deepak_umar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir1120k" height="30" width="40" /></a> 
 
 ### 🏆 Achievements:
-- **LeetCode**: Solved 100+ coding challenges
-- **Full Stack Projects**: Developing multiple web apps using MERNstack
-- **Machine Learning Models**: Building predictive models for classification and regression problems
+- 2025 – Letters of Recommendation (LORs) from Professor at IIT Kanpur for academic excellence and research potential
+- 2025 – Completed DSA + Web Development course from Apna College
+- 2024 – Selected as Internshala Student Partner – Campus Ambassador Program
 
 ---
 
 ### ⚡ Projects:
-- **[Airbnb Clone](https://airstay-web.onrender.com)**: Currently I am Building  Full Stack Web Development project using MERN Stack.
-- **[Email Classifiers](https://github.com/Deepakkumar5570/Email-Spam-Classifier-Project.git)**: Machine Learning project focused on predictive analytics using Python. with Accuracy_score 0.9816247582205029 and Precision_score 0.9917355371900827 by SVM Algorithm
-- **[Email Checker with django](https://github.com/Deepakkumar5570/Email_ham_spam_checker)**: Machine learning project by using multinomial bayes algorithm using pyhton and django framework
-- **[Movies Recommendation System](https://github.com/Deepakkumar5570/Movie-Recommendation-System/blob/main/Copy_of_Untitled11.ipynb).**: A Machine Learning Project ,Trained at IMDb dataset, it is is content based movie recommendid system. 
+- **[RAG-Based Multi-Document Chatbot](  https://github.com/Deepakkumar5570/rag-multidoc-chatbot)**: 
+ Retrieval-Augmented Generation chatbot for querying & summarizing multiple PDFs
+Tech Stack: 🐍 Python | 🤗 Hugging Face Transformers | FAISS | LangChain.
+- **[Coder-Buddy](https://github.com/Deepakkumar5570/Coder-buddy)**:AI-powered coding assistant for debugging, explanation & solution generation
+Tech Stack: 🐍 Python | NLP Models | Streamlit | OpenAI API
+- **[Leaves Detection Model](https://github.com/Deepakkumar5570/YOLOv8_Leaves-detection)**:Computer vision system for early plant disease detection using UV & Non-UV imaging
+Tech Stack: 🌱 YOLOv8 | Vision Transformers (ViT) | TensorFlow | PyTorch | OpenCV
+- **[AirStay](https://airstay-web.onrender.com).**:Full-stack Airbnb-inspired web app with booking system & authentication
+Tech Stack: ⚛️ React | 🌐 Node.js | 🗄️ MongoDB | 🚀 Express | JWT Auth
+- **[Real-time Chat Application](https://github.com/Deepakkumar5570/Chat-App).**:
+Instant messaging app with real-time updates & group chat
+Tech Stack: ⚛️ React | 🌐 Node.js | Socket.io | MongoDB
+- **[LinkedIn Clone for GitHub Profile](https://github.com/Deepakkumar5570/Linkedin-Clone).**:
+Interactive LinkedIn-style profile interface displaying GitHub repositories & stats
+Tech Stack: ⚛️ React | 🔥 Firebase | 🌐 Node.js | 🗄️ MongoDB | 🚀 Express |
+
+
 
 ---
 
@@ -69,7 +90,7 @@
 ---
 
 ### 🌱 Currently Learning:
-- **Ex-Research Intern @IITK**
+- **Generative AI**
 - **Advanced Machine Learning Algorithms**
 - **Deep learning**
 - **Data Structure And Algorithms**
